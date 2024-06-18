@@ -48,6 +48,6 @@ searchForm.addEventListener("submit",(e)=>{
     page = 1;
     searchResult.innerText = "";
     getPicture();
-});
+})
 
 
